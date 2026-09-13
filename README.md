@@ -1,4 +1,4 @@
-`![SWARM Logo](SwarmBanner.png)`
+![SWARM Banner](SwarmBanner.png)
 
 # SWARM
 ### Security Weakness Analyser for MQTT Reconnaissance and Mapping
